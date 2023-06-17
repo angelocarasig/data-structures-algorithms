@@ -19,16 +19,15 @@ You will need to have installed `node` and `npm` to run the examples here.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/angelocarasig/dsa.git
+   git clone https://https://github.com/angelocarasig/data-structures-algorithms.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Run with nodemon
+3. Run with nodemon
     ```
     npx nodemon
     ```
