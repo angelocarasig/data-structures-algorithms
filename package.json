@@ -1,0 +1,25 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "Archive of data structures and algorithms worked on.",
+  "main": "TestingGrounds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelocarasig/dsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelocarasig/dsa/issues"
+  },
+  "homepage": "https://github.com/angelocarasig/dsa#readme",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1"
+  }
+}
